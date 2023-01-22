@@ -1,0 +1,28 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Reggae+One&display=swap");
+
+// Variables
+@import "variables";
+
+// FontAwesome
+@import "../../node_modules/font-awesome/scss/font-awesome.scss";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+// swiper
+@import "../../node_modules/swiper/swiper-bundle.css";
+
+// Slick Carsousel
+@import "~slick-carousel/slick/slick";
+@import "~slick-carousel/slick/slick-theme";
+
+// Style
+@import "style";
+
+// Login Page
+@import "login";
+
+// Media
+@import "media";
